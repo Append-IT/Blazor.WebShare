@@ -1,6 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk.Razor">
 
   <PropertyGroup>
+    <RootNamespace>Append.Blazor.WebShare</RootNamespace>
+    <AssemblyName>Append.Blazor.WebShare</AssemblyName>
+    <Authors>Benjamin Vertonghen</Authors>
+    <Company>Append</Company>
+    <Description>HTML5 Web Share API implementation for Microsoft Blazor</Description>
+    <Copyright>Benjamin Vertonghen</Copyright>
+    <PackageProjectUrl>https://github.com/Append-IT/Blazor.WebShare</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Append-IT/Blazor.WebShare</RepositoryUrl>
+    <PackageTags>Blazor;Web Share;Web Share API;.NET;Razor;HTML</PackageTags>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Version>7.0.0</Version>
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
@@ -12,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="7.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="7.0.2" />
   </ItemGroup>
 
 </Project>
