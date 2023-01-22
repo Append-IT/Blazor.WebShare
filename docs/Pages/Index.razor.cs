@@ -9,7 +9,7 @@ public partial class Index
     {
         try
         {
-            await WebShareService.ShareAsync("Your Title", "Your Custom Text", "www.google.com");
+            await WebShareService.ShareAsync("Your Title", "Your Custom Text", "https://www.google.com");
         }
         catch (WebShareAbortException ex)
         {
