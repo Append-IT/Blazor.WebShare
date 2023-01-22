@@ -1,0 +1,14 @@
+﻿@page "/"
+
+<h1>Web Share</h1>
+
+<p>Click the button to see the Web Share API in action.</p>
+
+<button class="btn btn-secondary" @onclick="ShareAsync">Share!</button>
+
+@if (!string.IsNullOrWhiteSpace(result))
+{
+    <div class="alert alert-danger mt-2" role="alert">
+        @result
+    </div>
+}
