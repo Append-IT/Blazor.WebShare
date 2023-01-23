@@ -19,7 +19,7 @@ Install-Package Append.Blazor.WebShare
 ```
 
 ## Demo
-There is a sample application in /docs folder which is also hosted as [documentation](https://agreeable-rock-071180b03.azurestaticapps.net). 
+There is a sample application in /docs folder which is also hosted as [documentation](https://wonderful-smoke-084433603.2.azurestaticapps.net). 
 
 ## Usage
 
