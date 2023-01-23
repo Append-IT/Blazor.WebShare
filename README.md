@@ -1,5 +1,5 @@
 # Web Share
-Implementation of the [Web Share  API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/share) in C# for [Microsoft Blazor](https://github.com/aspnet/Blazor). The Web Share API allows a site to share text, links, files, and other content to user-selected share targets, utilizing the sharing mechanisms of the underlying operating system. 
+Implementation of the [Web Share  API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/share) in C# for [Microsoft Blazor](https://github.com/aspnet/Blazor). The Web Share API allows a site to share text, links and other content to user-selected share targets, utilizing the sharing mechanisms of the underlying operating system. 
 
 [![Package Version](https://img.shields.io/nuget/v/Append.Blazor.WebShare.svg)](https://www.nuget.org/packages/Append.Blazor.WebShare)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Append.Blazor.WebShare.svg)](https://www.nuget.org/packages/Append.Blazor.WebShare)
