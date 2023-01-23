@@ -20,6 +20,11 @@ public partial class Index
         {
             result = ex.Message;
         }
+        catch (Exception ex)
+        {
+            // Whatever happend.
+            result = ex.Message;
+        }
     }
 }
 
