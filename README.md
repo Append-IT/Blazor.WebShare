@@ -10,6 +10,8 @@ Implementation of the [Web Share  API](https://developer.mozilla.org/en-US/docs/
 
 https://user-images.githubusercontent.com/10981553/213947131-b33c38e6-2481-4e67-b4af-631c8acc1013.mov
 
+## Support 
+<img src="https://caniuse.bitsofco.de/image/web-share.jpg" alt="Data on support for the web-share feature across the major browsers from caniuse.com"/>
 
 
 ## Installation
